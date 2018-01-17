@@ -3,8 +3,6 @@ Punctual
 
 Punctual is a platform that allows users to manage their deadlines and future tasks. Create and manage tasks by entering a time estimate and a due date.
 
-**Live site:** https://bbui-amassey.herokuapp.com/
-
 To Build Locally
 
 1) Run npm install in root project directory.
